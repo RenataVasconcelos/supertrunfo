@@ -1,2 +1,2 @@
 # jogo
-Arquivo apenas para salvar imagens de um projeto
+Projeto realizado em uma imersão da escola Alura!
